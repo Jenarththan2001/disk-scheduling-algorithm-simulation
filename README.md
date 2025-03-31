@@ -31,7 +31,7 @@ This project simulates and compares 6 classic disk scheduling algorithms using *
 ![Architecture](Images/Architecture.svg)
 
 ---
-                                
+
 ## 🎯 Member Responsibilities
 
 ### Jenarththan Akilan (2021/E/006)
@@ -96,7 +96,7 @@ This project simulates and compares 6 classic disk scheduling algorithms using *
 
 You can find the official presentation below:
 
-[📥 Disk Scheduling Presentation (PDF)](Disk_Scheduling_Presentation.pdf)
+[📥 Disk Scheduling Presentation (PDF)](Images/Disk_Scheduling_Presentation.pdf)
 
 ---
 
