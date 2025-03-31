@@ -1,6 +1,8 @@
 
 # Disk Scheduling Algorithm Simulator
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge-id/deploy-status)](https://disk-scheduler-simulator.netlify.app/)
+
 
 > EC6110: Operating Systems - Group Assignment 3  
 > **Jenarththan Akilan** - 2021/E/006 - 2021e006@eng.jfn.ac.lk  
